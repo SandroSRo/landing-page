@@ -18,11 +18,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser.
 
 ## Landing Page Exemplo Itau Enterprise
 
-<img src="/assets/Captura3.png">
+<img src="./src/assets/Captura3.png">
 
-<img src="/assets/Captura.png">
+<img src="./src//assets/Captura.png">
 
-<img src="/assets/Captura2.png">
+<img src="./src/assets/Captura2.png">
 
 # Tools
 
