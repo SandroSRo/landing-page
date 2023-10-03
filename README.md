@@ -22,7 +22,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser.
 
 <img src="./src//assets/Captura.png">
 
-<img src="./src/assets/Captura2.png">
+<img src="./src/assets/Capturar2.png">
 
 # Tools
 
